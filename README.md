@@ -16,7 +16,7 @@ A full-stack notes application built with the MERN stack (MongoDB, Express, Reac
 
 - Frontend: React (Vite, React Router, Tailwind CSS, DaisyUI, React Hot Toast)  
 - Backend: Node.js, Express, MongoDB (Mongoose), Upstash Redis (rate limiting)  
-- Deployment: Render.com
+- Deployment: Render.com | [Deployed Site](https://notely-qqxg.onrender.com)
 
 ## Thank You
 
